@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1467c172-464a-4744-8e7b-f3d8f507e29e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1n8ArWK3Byy3rYtSNT1f6zL6Uy3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Code_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class01.Code_01" />
+      <module name="zuo-wwg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Code_01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1467c172-464a-4744-8e7b-f3d8f507e29e" name="Default Changelist" comment="" />
+      <created>1610761542855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610761542855</updated>
+      <workItem from="1610761546350" duration="1744000" />
+      <workItem from="1610807699412" duration="2130000" />
+      <workItem from="1610897641927" duration="1475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="100" key="#Project_Structure" timestamp="1610761553308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="100" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610761553308" />
+    <state x="662" y="317" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1610761665406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="317" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1610761665406" />
+    <state x="690" y="202" key="FileChooserDialogImpl" timestamp="1610899155556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="202" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610899155556" />
+    <state x="736" y="419" key="Github.CreateGistDialog" timestamp="1610898831081">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="419" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610898831081" />
+    <state width="1864" height="263" key="GridCell.Tab.0.bottom" timestamp="1610815214544">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610815214544" />
+    <state width="1864" height="263" key="GridCell.Tab.0.center" timestamp="1610815214542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610815214542" />
+    <state width="1864" height="263" key="GridCell.Tab.0.left" timestamp="1610815214542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610815214542" />
+    <state width="1864" height="263" key="GridCell.Tab.0.right" timestamp="1610815214542">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1864" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610815214542" />
+    <state x="348" y="63" key="SettingsEditor" timestamp="1610898808782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="348" y="63" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610898808782" />
+  </component>
+</project>
