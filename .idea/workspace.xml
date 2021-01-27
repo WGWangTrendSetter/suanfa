@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1467c172-464a-4744-8e7b-f3d8f507e29e" name="Default Changelist" comment="" />
+    <list default="true" id="c0ef4ff5-e3b0-4887-b96e-9c7fa4be2b3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/zuo-wwg.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/class04/Code01_MergeSort.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +27,39 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1n8ArWK3Byy3rYtSNT1f6zL6Uy3" />
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/remotes/suanfa1/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="WGWangTrendSetter" />
+        <option value="WenGuang Wang" />
+        <option value="592999374@qq.com" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="main" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="WGWangTrendSetter" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="suanfa1" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\wwg_projects\算法\算法基础\zuo-wwg\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n8ArWK3Byy3rYtSNT1f6zL6Uy3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +76,52 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wwg_projects\算法\算法基础\zuo-wwg\src\zuojinjie" />
+      <recent name="E:\wwg_projects\算法\算法基础\zuo-wwg\src\zuo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Code01_MergeSort">
+    <configuration name="Code01_MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="class04.Code01_MergeSort" />
+      <module name="zuo-wwg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="class04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code01_SelectionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuojinjie.src.class01.Code01_SelectionSort" />
+      <module name="zuo-wwg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuojinjie.src.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Code02_SumOfFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="zuo.class01.Code02_SumOfFactorial" />
+      <module name="zuo-wwg" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="zuo.class01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Code_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="class01.Code_01" />
       <module name="zuo-wwg" />
@@ -50,6 +137,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Code01_MergeSort" />
+        <item itemvalue="Application.Code01_SelectionSort" />
+        <item itemvalue="Application.Code02_SumOfFactorial" />
         <item itemvalue="Application.Code_01" />
       </list>
     </recent_temporary>
@@ -80,12 +170,30 @@
       <workItem from="1610807699412" duration="2130000" />
       <workItem from="1610897641927" duration="1475000" />
     </task>
+    <task id="LOCAL-00001" summary="初期化">
+      <created>1610899311581</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610899311582</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初期化" />
+    <MESSAGE value="递归，非递归（步长）merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="递归，非递归（步长）merge" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="96" key="#Notifications" timestamp="1610900380121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="96" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1610900380121" />
     <state x="452" y="100" key="#Project_Structure" timestamp="1610761553308">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -118,9 +226,121 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1864" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610815214542" />
+    <state x="482" y="48" key="CommitChangelistDialog2" timestamp="1611765634492">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="482" y="48" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1611765634492" />
+    <state width="425" height="582" key="DebuggerActiveHint" timestamp="1611758928813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="425" height="582" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1611758928813" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1611765328298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611765328298" />
+    <state x="690" y="202" key="FileChooserDialogImpl" timestamp="1611764365947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="202" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1611764365947" />
+    <state x="736" y="419" key="Github.CreateGistDialog" timestamp="1610899868870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="419" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610899868870" />
+    <state x="672" y="367" key="Github.CreatePullRequestDialog" timestamp="1610900744107">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="367" key="Github.CreatePullRequestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610900744107" />
+    <state x="798" y="391" key="Github.ShareDialog" timestamp="1610901080530">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="798" y="391" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610901080530" />
+    <state width="1134" height="321" key="GridCell.Tab.0.bottom" timestamp="1611764440089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440089" />
+    <state width="1134" height="321" key="GridCell.Tab.0.center" timestamp="1611764440088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440088" />
+    <state width="1134" height="321" key="GridCell.Tab.0.left" timestamp="1611764440087">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440087" />
+    <state width="1134" height="321" key="GridCell.Tab.0.right" timestamp="1611764440088">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440088" />
+    <state width="1134" height="321" key="GridCell.Tab.1.bottom" timestamp="1611764440089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440089" />
+    <state width="1134" height="321" key="GridCell.Tab.1.center" timestamp="1611764440089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440089" />
+    <state width="1134" height="321" key="GridCell.Tab.1.left" timestamp="1611764440089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440089" />
+    <state width="1134" height="321" key="GridCell.Tab.1.right" timestamp="1611764440089">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1134" height="321" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1611764440089" />
+    <state x="368" y="85" key="MergeDialog" timestamp="1611764270789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="368" y="85" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611764270789" />
+    <state x="958" y="167" key="MultipleFileMergeDialog" timestamp="1611764278305">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="958" y="167" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611764278305" />
+    <state x="694" y="165" key="RollbackChangesDialog" timestamp="1611765590232">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="165" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611765590232" />
     <state x="348" y="63" key="SettingsEditor" timestamp="1610898808782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="63" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610898808782" />
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2" timestamp="1611766004752">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1611766004752" />
+    <state x="722" y="193" key="VcsDiffUtil.ChangesDialog" timestamp="1611765030813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="722" y="193" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611765030813" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1610903082897">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610903082897" />
+    <state x="577" y="304" key="com.intellij.ide.util.TipDialog" timestamp="1611764466333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="577" y="304" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611764466333" />
+    <state x="1044" y="167" key="git4idea.branch.GitSmartOperationDialog" timestamp="1611764245010">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1044" y="167" key="git4idea.branch.GitSmartOperationDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611764245010" />
+    <state x="709" y="267" key="git4idea.merge.GitMergeDialog" timestamp="1611766089477">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="709" y="267" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611766089477" />
+    <state x="589" y="267" key="git4idea.merge.GitPullDialog" timestamp="1611765741011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="267" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611765741011" />
+    <state x="1075" y="357" key="git4idea.rebase.GitRebaseDialog" timestamp="1611764929533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1075" y="357" key="git4idea.rebase.GitRebaseDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611764929533" />
+    <state x="999" y="202" key="git4idea.rebase.GitRebaseEditor" timestamp="1611763959229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="999" y="202" key="git4idea.rebase.GitRebaseEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1611763959229" />
+    <state x="896" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1611757169666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="896" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1611757169666" />
   </component>
 </project>

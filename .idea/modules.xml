@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/zuo-wwg.iml" filepath="$PROJECT_DIR$/zuo-wwg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/zuo-wwg.iml" filepath="$PROJECT_DIR$/.idea/zuo-wwg.iml" />
     </modules>
   </component>
 </project>
